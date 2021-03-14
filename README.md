@@ -6,7 +6,7 @@ Introduction
 For this week's homework we created a Portfolio Page
 It supposed to showcase our web applications or projects we are currently working on or have done, so future employers can view them as reference of our skills and capabilities to potentially fill a position.
 
-We created this page using
+We created this page using:
  ・html
  ・css
 
