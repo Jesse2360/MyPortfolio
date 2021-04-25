@@ -222,17 +222,18 @@ main {
 
 /*images */
 
-.run-buddy {
-  background-image: url("../images/02-run-buddy.jpg");
-  
+.weather {
+  background-image: url("https://github.com/Jesse2360/MyPortfolio/blob/main/assets/images/ScreenShot-weather-update.png?raw=true"); 
 }
 
-.led-wall {
-  background-image: url("../images/02-portfolio-1.jpg");
+.scheduler {
+  background-image: url("https://github.com/Jesse2360/MyPortfolio/blob/main/assets/images/Screen%20Shot%20scheduler.png?raw=true");
 }
 
-.surf-report {
-  background-image: url("../images/02-portfolio-4.jpg");
+.ducking {
+  background-image: url("https://github.com/Jesse2360/MyPortfolio/blob/main/assets/images/ducking%20awesome.png?raw=true");
+  height: 50px;
+  width: 40px;
 }
 
 @media screen and (max-width: 980px) {
