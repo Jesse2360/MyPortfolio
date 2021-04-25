@@ -85,6 +85,9 @@ main {
   margin-top: 20px;
   margin-bottom: 45px;
 }
+#personalPhoto {
+  float: left;
+}
 
 .hero-banner {
   background: rgb(68, 88, 120);
