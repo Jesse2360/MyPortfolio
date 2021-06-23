@@ -239,11 +239,18 @@ main {
   width: 40px;
 }
 
-.ReadmeGenerator {
-  background-image: url("https://github.com/Jesse2360/MyPortfolio/blob/568697dcf4cd906de3981df2ed148dca21832acf/assets/images/readmeGenerator%20Screen%20Shot%20.png");
+.projectTwo {
+  background-image: url("assets/images/readmeGenerator Screen Shot .png");
   height: 50px;
   width: 40px;
 }
+
+#ReadmeGenerator {
+  background-image: url("https://github.com/Jesse2360/MyPortfolio/blob/ade7833c836ab82bd73fde90aea12dff16ab959d/assets/images/readmeGenerator%20Screen%20Shot%20.png");
+  height: 50px;
+  width: 40px;
+}
+
 
 @media screen and (max-width: 980px) {
   header {
