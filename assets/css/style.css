@@ -226,29 +226,28 @@ main {
 /*images */
 
 .weather {
-  background-image: url("https://github.com/Jesse2360/MyPortfolio/blob/main/assets/images/ScreenShot-weather-update.png?raw=true"); 
+  background-image: url("https://github.com/Jesse2360/MyPortfolio/blob/main/assets/images/ScreenShot-weather-update.png?raw=true");
+  background-size: cover;
 }
 
 .scheduler {
-  background-image: url("https://github.com/Jesse2360/MyPortfolio/blob/main/assets/images/Screen%20Shot%20scheduler.png?raw=true");
+  background-image: url("/Users/jesseceniceros/Desktop/Gitlab/MyPortfolio/MyPortfolio/assets/images/Screen Shotscheduler.png");
+  background-size: cover;
 }
 
 .ducking {
   background-image: url("https://github.com/Jesse2360/MyPortfolio/blob/main/assets/images/ducking%20awesome.png?raw=true");
-  height: 50px;
-  width: 40px;
+  background-size: cover;
 }
 
-.projectTwo {
-  background-image: url("./assets/images/readmeGeneratorScreenShot.png");
-  height: 50px;
-  width: 40px;
+.projectThree {
+  background-image: url("/Users/jesseceniceros/Desktop/Gitlab/MyPortfolio/MyPortfolio/assets/images/scissors-palace.png");
+  background-size: cover;
 }
 
-#ReadmeGenerator {
-  background-image: url("https://github.com/Jesse2360/MyPortfolio/blob/ade7833c836ab82bd73fde90aea12dff16ab959d/assets/images/readmeGenerator%20Screen%20Shot%20.png");
-  height: 50px;
-  width: 40px;
+.noteTaker {
+  background-image: url("/Users/jesseceniceros/Desktop/Gitlab/MyPortfolio/MyPortfolio/assets/images/Screen Shot 2021-05-15 at 7.22.31 PM.png");
+  background-size: cover;
 }
 
 
