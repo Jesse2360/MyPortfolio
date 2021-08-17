@@ -13,8 +13,8 @@ It supposed to showcase our web applications or projects we are currently workin
  ・GitHub <br>
 
 # Screenshot
-![photo](https://github.com/Jesse2360/MyPortfolio/blob/a424d9ac2232cece665801bf63a7665d568032ef/assets/images/portfolioScreenshot.png)
+![photo](https://github.com/Jesse2360/MyPortfolio/blob/e03ae3b2c84c95458132480e873dca0a37039f04/assets/images/portfolioNewImg.png)
 
-# link
+# Link
 * [Link to Site](https://jesse2360.github.io/MyPortfolio/)
 
