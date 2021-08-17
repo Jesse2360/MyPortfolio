@@ -91,7 +91,7 @@ main {
 
 .hero-banner {
   background: rgb(68, 88, 120);
-  background-image: url("../images/artboard_2-100.webp"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+  background-image: url("/Users/jesseceniceros/Desktop/Gitlab/MyPortfolio/MyPortfolio/assets/images/ferenc-almasi-c8h0n7fSTqs-unsplash.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
   background-size: cover;
   background-position: center;
   background-blend-mode: hard-light;
