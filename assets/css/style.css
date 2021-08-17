@@ -240,7 +240,7 @@ main {
 }
 
 .projectTwo {
-  background-image: url("assets/images/readmeGenerator Screen Shot .png");
+  background-image: url("./assets/images/readmeGeneratorScreenShot.png");
   height: 50px;
   width: 40px;
 }
