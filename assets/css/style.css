@@ -125,7 +125,7 @@ main {
 }
 
 .page-section {
-  margin: 25px 0;
+  margin: 20px 0;
   padding: 10px 0;
   display: flex;
   flex-direction: row;
@@ -161,7 +161,7 @@ main {
   border: 5px solid var(--secondary);
   background-color: var(--primary);
   color: var(--tertiary);
-  min-height: 150px;
+  min-height: 250px;
   max-height: 150px;
   flex-basis: calc(50% - 1em);
   display: flex;
@@ -177,7 +177,7 @@ main {
 
 /* feature first portfolio item */
 .flex-item:first-child {
-    min-height: 150px;
+    min-height: 200px;
     flex-basis: 100%;
 }
 
