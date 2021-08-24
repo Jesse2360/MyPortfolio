@@ -4,11 +4,11 @@
 
 /* brand color palette */
 :root {
-  --primary: rgb(6, 72, 110);
-  --secondary: rgb(37, 179, 67);
-  --tertiary: rgba(49, 52, 61, 1);
-  --dark: rgba(28, 29, 33, 1);
-  --light: rgb(184, 219, 28);
+  --primary:  rgb(32, 31, 31);
+  --secondary:  rgb(108, 123, 131);
+  --tertiary: rgb(52, 62, 97);
+  --dark: rgb(81, 81, 92);
+  --light: rgba(125, 135, 177, 0.973);
 }
 
 body {
@@ -177,8 +177,26 @@ main {
 
 /* feature first portfolio item */
 .flex-item:first-child {
-    min-height: 400px;
+    min-height: 150px;
     flex-basis: 100%;
+}
+
+.mainTitle {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.span {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.description {
+  font-size: 18px;
+}
+
+.divBorder {
+  border-bottom: solid #070707;
 }
 
 .flex-item:hover {
